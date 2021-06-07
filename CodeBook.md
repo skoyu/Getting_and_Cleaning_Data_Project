@@ -1,4 +1,3 @@
-# Peer-graded Assignment 3: Getting and Cleaning Data Course Project
 # Variables used in the data set
 The data from the downloaded file has the following variables: x_train, y_train, x_test, y_test, subject_train and subject_test.
 
