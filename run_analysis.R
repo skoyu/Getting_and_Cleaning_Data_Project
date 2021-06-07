@@ -61,7 +61,7 @@ OutputData <- Tidy_dataset %>%
   summarise_all(funs(mean))
 write.table(OutputData, "OutputTidyData.txt", row.name=FALSE)
 
-### str(OutputData)
+### str(OutputTidyData)
 
 
 
